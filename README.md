@@ -1,7 +1,7 @@
 # NPU-PIM-simulator
 
 **Trace-driven NPU-PIM co-simulation framework**
-This repository provides the full source code and configurations for the simulator described in our CASES 2026 paper.
+This repository provides the full source code and configurations for the simulator described in our ICCD 2026 paper.
 
 We provide **timing simulations** based on user parameters.
 
