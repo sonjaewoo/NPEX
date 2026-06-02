@@ -1,7 +1,7 @@
-# NPU-PIM-co-simulator
+# NPEX: NPU–PIM Design Space Explorer
 
 **Trace-driven NPU-PIM co-simulation framework**
-This repository provides the full source code and configurations for the simulator described in our ICCD 2026 paper.
+This repository provides the full source code and configurations for the simulator described in our CODES LB 2026 paper.
 
 We provide **timing simulations** based on user parameters.
 
@@ -61,7 +61,7 @@ We provide **timing simulations** based on user parameters.
 
 ## How to Compile
 ```bash
-git clone NPU-PIM-co-simulator.git
+git clone NPEX.git
 cd NPU-PIM-co-simulator
 mkdir shared
 cd hsim
